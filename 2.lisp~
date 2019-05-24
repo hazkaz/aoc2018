@@ -1,0 +1,4 @@
+(let ((data (uiop:read-file-lines "C:/Users/HARIKRISHNAN/experimental/aoc 18/2.input")))
+  (dolist (word data)
+    (
+
